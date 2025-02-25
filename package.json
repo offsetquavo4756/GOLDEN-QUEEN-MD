@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "adm-zip": "^0.5.16",
-   "@whiskeysockets/baileys": "6.7.9", 
+   "@whiskeysockets/baileys": "github:GoldenQueenMD/Baileys", 
     "@adiwajshing/keyed-db": "^0.2.4",
     "form-data": "latest",
     "crypto": "latest",
